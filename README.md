@@ -86,6 +86,7 @@ Created by Makridhs Xaralampos-Marios,student at University of Macedonia.
 Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/xaralampos-makridhs-5157b8332/)
+- [GitHub](https://github.com/Xaralampos-Makridhs)
 
 
 
