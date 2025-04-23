@@ -71,12 +71,9 @@ for example localhost/05-variable_scope.php
 
 ---
 
-## Contributing
+## Contact for Questions or Suggestions
 
-Contributions are welcome! If you'd like to improve examples, fix typos, or add exercises, feel free to:
-- Fork this repository
-- Create a new branch
-- Submit a pull request
+If you have any questions or would like to suggest improvements or corrections to my repository, please feel free to contact me via email at makridhs.xaralampos@gmail.com.
 
 ---
 
@@ -87,9 +84,7 @@ Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/xaralampos-makridhs-5157b8332/)
 - [GitHub](https://github.com/Xaralampos-Makridhs)
-
-
-
+  
 ---
 
 Happy coding!
