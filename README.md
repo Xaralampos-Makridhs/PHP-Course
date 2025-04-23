@@ -85,7 +85,8 @@ Contributions are welcome! If you'd like to improve examples, fix typos, or add 
 Created by Makridhs Xaralampos-Marios,student at University of Macedonia.
 Connect with me:
 
-- [LinkedIn]: (https://www.linkedin.com/in/xaralampos-makridhs-5157b8332/)
+- [LinkedIn](https://www.linkedin.com/in/xaralampos-makridhs-5157b8332/)
+
 
 
 ---
