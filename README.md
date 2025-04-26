@@ -21,19 +21,13 @@ Each folder in this repository represents a chapter in the course:
 - `01-basic-syntax/`: Syntax, output, and comments
 - `02-variables-and-data-types/`: Variables and data handling
 - `03-operators/`: Arithmetic and logical operators
-- `04-control-structures/`: Conditionals and loops
-- `05-functions/`: Writing reusable functions
-- `06-arrays/`: Working with different types of arrays
-- `07-strings-and-manipulation/`: String functions and operations
-- `08-superglobals/`: Working with `$_GET`, `$_POST`, and others
-- `09-forms-and-validation/`: Forms and secure input handling
-- `10-sessions-and-cookies/`: Managing user data across pages
-- `11-file-handling/`: Reading and writing files
-- `12-oop-basics/`: Introduction to object-oriented PHP
-- `13-error-handling/`: Dealing with runtime errors
-- `14-mysql-and-database/`: PHP + MySQL integration
-- `15-mini-projects/`: Hands-on practice
-- `16-advanced-topics/`: More advanced PHP concepts
+- `04-variable_scope/`:Global,local,static variables
+- `05-control-structures/`: Conditionals
+- `06-loop_statements/`:Loops
+- `07-functions/`: Writing reusable functions
+- `08-strings`/:Strings and string methods
+- `09-oop-basics/`: Introduction to object-oriented PHP
+- `10-arrays/`: Working with different types of array
 
 ---
 
