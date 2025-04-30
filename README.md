@@ -25,7 +25,7 @@ Each folder in this repository represents a chapter in the course:
 - `05-control-structures/`: Conditionals
 - `06-loop_statements/`:Loops
 - `07-functions/`: Writing reusable functions
-- `08-strings`/:Strings and string methods
+- `08-strings/`:Strings and string methods
 - `09-oop-basics/`: Introduction to object-oriented PHP
 - `10-arrays/`: Working with different types of array
 
