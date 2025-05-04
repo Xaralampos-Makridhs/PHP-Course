@@ -28,6 +28,7 @@ Each folder in this repository represents a chapter in the course:
 - `08-strings/`:Strings and string methods
 - `09-oop-basics/`: Introduction to object-oriented PHP
 - `10-arrays/`: Working with different types of array
+- `11-forms/`:Simple forms and XSS.
 
 ---
 
