@@ -20,7 +20,7 @@ Each folder in this repository represents a chapter in the course:
 
 - `01-basic-syntax/`: Syntax, output, and comments
 - `02-variables-and-data-types/`: Variables and data handling
-- `03-operators/`: Arithmetic and logical operators
+- `03-operators/`: Arithmetic and logical operators *open in browser to see the result!
 - `04-variable_scope/`:Global,local,static variables
 - `05-control-structures/`: Conditionals
 - `06-loop_statements/`:Loops
