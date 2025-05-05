@@ -29,6 +29,7 @@ Each folder in this repository represents a chapter in the course:
 - `09-oop-basics/`: Introduction to object-oriented PHP
 - `10-arrays/`: Working with different types of array
 - `11-forms/`:Simple forms and XSS.
+- `12-superglobalvariables/`:Super Global Variables in PHP.
 
 ---
 
