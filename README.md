@@ -18,19 +18,19 @@ This repository is designed to provide a structured and comprehensive introducti
 
 Each folder in this repository represents a chapter in the course:
 
-- `01-basic-syntax/`: Syntax, output, and comments
-- `02-variables-and-data-types/`: Variables and data handling
+- `01-basic-syntax/`: Syntax, output, and comments.
+- `02-variables-and-data-types/`: Variables and data handling.
 - `03-operators/`: Arithmetic and logical operators *open in browser to see the result!
-- `04-variable_scope/`:Global,local,static variables
-- `05-control-structures/`: Conditionals
-- `06-loop_statements/`:Loops
-- `07-functions/`: Writing reusable functions
-- `08-strings/`:Strings and string methods
-- `09-oop-basics/`: Introduction to object-oriented PHP
-- `10-arrays/`: Working with different types of array
+- `04-variable_scope/`:Global,local,static variables.
+- `05-control-structures/`: Conditionals.
+- `06-loop_statements/`:Loops.
+- `07-functions/`: Writing reusable functions.
+- `08-strings/`:Strings and string methods.
+- `09-oop-basics/`: Introduction to object-oriented PHP.
+- `10-arrays/`: Working with different types of array.
 - `11-forms/`:Simple forms and XSS.
 - `12-superglobalvariables/`:Super Global Variables in PHP.
-- `13-cookiesandexamples/`:Cookies in PHP and example with COOKIES and POST
+- `13-cookiesandexamples/`:Cookies in PHP and example with COOKIES and POST.
 
 ---
 
