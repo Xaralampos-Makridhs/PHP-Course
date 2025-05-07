@@ -70,7 +70,7 @@ for example localhost/05-variable_scope.php
 
 ## Contact for Questions or Suggestions
 
-If you have any questions or would like to suggest improvements or corrections to my repository, please feel free to contact me via email at makridhs.xaralampos@gmail.com.
+If you have any questions or would like to suggest improvements or corrections to my repository, please feel free to contact me via email at: makridhs.xaralampos@gmail.com.
 
 ---
 
