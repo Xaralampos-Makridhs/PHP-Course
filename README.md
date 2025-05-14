@@ -32,7 +32,7 @@ Each folder in this repository represents a chapter in the course:
 - `12-superglobalvariables/`:Super Global Variables in PHP.
 - `13-cookiesandexamples/`:Cookies in PHP and example with COOKIES and POST.
 - `14-sessions/`:Super Global variable Session in PHP.
-- `15-php&mysql/`:Connections between PHP and MySQL.
+- `15-php&mysql/`:Connections between PHP and MySQL. **with project**
 
 ---
 
