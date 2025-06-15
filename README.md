@@ -33,6 +33,7 @@ Each folder in this repository represents a chapter in the course:
 - `13-cookiesandexamples/`:Cookies in PHP and example with COOKIES and POST.
 - `14-sessions/`:Super Global variable Session in PHP.
 - `15-php&mysql/`:Connections between PHP and MySQL. **with project**
+- `crud/`:Create Read Update Delete Project.
 
 ---
 
@@ -54,7 +55,7 @@ To run PHP code locally, you will need:
 Recommended tools:
 - [XAMPP](https://www.apachefriends.org/index.html)
 - [MAMP](https://www.mamp.info/en/)
-- Docker (for advanced users)
+- Laragon
 
 ### 2. Code Editor
 
