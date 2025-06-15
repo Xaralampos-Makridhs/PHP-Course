@@ -8,7 +8,7 @@
     //make sure you have create the Database in phpmyadmin
     try{
         $conn=new mysqli(servername,name,password,database);
-        echo "Connection Created Succesfuly.<br>";
+        echo "Connection Created Successfully.<br>";
     }catch(mysqli_sql_exception $e){
         echo "Failed". $e->getMessage();
     }
