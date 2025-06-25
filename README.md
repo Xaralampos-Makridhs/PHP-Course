@@ -33,8 +33,8 @@ Each folder in this repository represents a chapter in the course:
 - `13-cookiesandexamples/`:Cookies in PHP and example with COOKIES and POST.
 - `14-sessions/`:Super Global variable Session in PHP.
 - `15-php&mysql/`:Connections between PHP and MySQL. **with project**
+- `16-filehandling/`:File Handling in PHP.
 - `crud/`:Create Read Update Delete Project.
--`filehandling/`:File Handling in PHP.
 ---
 
 ## How to Use This Repository
