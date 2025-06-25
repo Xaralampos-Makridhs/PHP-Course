@@ -34,7 +34,7 @@ Each folder in this repository represents a chapter in the course:
 - `14-sessions/`:Super Global variable Session in PHP.
 - `15-php&mysql/`:Connections between PHP and MySQL. **with project**
 - `crud/`:Create Read Update Delete Project.
-
+-`filehandling/`:File Handling in PHP.
 ---
 
 ## How to Use This Repository
