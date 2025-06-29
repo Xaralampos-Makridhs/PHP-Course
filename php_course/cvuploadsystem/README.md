@@ -30,6 +30,7 @@ This is a simple PHP-based application that allows users to upload their CVs alo
 #### View
 ![ui2](https://github.com/user-attachments/assets/c45c027b-b72f-41f9-994d-55943845be2a)
 
-## Unique ID
+## Encoding Filename
+Each uploaded CV is saved with a unique, auto-generated name to avoid filename collisions.
 
 ![fileupload](https://github.com/user-attachments/assets/a0bebba0-f7ef-44f9-94ff-5a72bc4dbe10)
