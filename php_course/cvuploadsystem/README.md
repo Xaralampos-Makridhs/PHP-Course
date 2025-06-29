@@ -1,13 +1,13 @@
 # 📄 CV Upload System
 
-This is a simple PHP-based application that allows users to upload their CVs along with their name and email. Uploaded CVs are stored in a folder on the server and registered in a MySQL database. An admin panel (view.php) lists all submitted CVs and allows you to download them.
+This is a simple PHP-based application that allows users to upload their CVs along with their name and email. Uploaded CVs are stored in a folder on the server and registered in a MySQL database. An admin panel (view.php) lists all submitted CVs.
 
 ## Technologies Used
 
-- PHP (Procedural)
+- PHP
 - MySQL
 - HTML5 / CSS3
-- PHPMyAdmin or HeidiSQL (for database management)
+- HeidiSQL (for database management)
 
 ---
 
@@ -16,7 +16,6 @@ This is a simple PHP-based application that allows users to upload their CVs alo
 - Upload CVs in `.pdf`, `.doc`, or `.docx` formats.
 - Store user information (name and email) along with file path and timestamp.
 - View uploaded CVs ordered by submission date.
-- Direct link to download the submitted CV.
 
 ---
 
