@@ -55,7 +55,7 @@ To run PHP code locally, you will need:
 Recommended tools:
 - [XAMPP](https://www.apachefriends.org/index.html)
 - [MAMP](https://www.mamp.info/en/)
-- Laragon
+- [Laragon](https://laragon.lemonsqueezy.com/)
 
 ### 2. Code Editor
 
