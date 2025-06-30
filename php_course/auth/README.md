@@ -1,4 +1,4 @@
-# 🔐 PHP User Authentication System
+# 🔐 User Authentication System
 
 A simple and secure user authentication system built with **PHP** and **MySQL**.
 
@@ -9,7 +9,6 @@ A simple and secure user authentication system built with **PHP** and **MySQL**.
 - HTML5 & CSS3
 
 ## ✅ Features
-
 
 - User registration with unique username and email
 - Password hashing using `password_hash()`
