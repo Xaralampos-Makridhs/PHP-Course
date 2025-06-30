@@ -4,7 +4,7 @@ A simple and secure user authentication system built with **PHP** and **MySQL**.
 
 ## 🧰 Used Technologies
 
-- PHP (pure procedural)
+- PHP
 - MySQL (with MySQLi prepared statements)
 - HTML5 & CSS3
 
