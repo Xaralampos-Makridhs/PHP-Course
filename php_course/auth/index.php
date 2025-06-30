@@ -9,7 +9,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $submittedEmail    = trim($_POST['email']);
     $password = password_hash($_POST['password'], PASSWORD_DEFAULT);
 
-    // Έλεγχος αν υπάρχει ήδη το username
+
     $stmt = $conn->prepare("SELECT id FROM users WHERE username = ?");
     $stmt->bind_param("s", $submittedUsername);
     $stmt->execute();
@@ -18,7 +18,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $usernameError = "Name is already used!";
     }
 
-    // Έλεγχος αν υπάρχει ήδη το email
+
     $stmt = $conn->prepare("SELECT id FROM users WHERE email = ?");
     $stmt->bind_param("s", $submittedEmail);
     $stmt->execute();
@@ -27,7 +27,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $emailError = "Email already used";
     }
 
-    // Αν δεν υπάρχουν σφάλματα, κάνε την εγγραφή
+
     if (empty($usernameError) && empty($emailError)) {
         $stmt = $conn->prepare("INSERT INTO users (username, email, password) VALUES (?, ?, ?)");
         $stmt->bind_param("sss", $submittedUsername, $submittedEmail, $password);
