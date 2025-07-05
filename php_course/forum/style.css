@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    background-color: #e8f1ff;
+    height: 100%;
+}
+
+.login, .register {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.loginform, .registerform {
+    padding: 20px;
+    background-color: #b3ccff;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.loginform input, .registerform input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    color: #0609cd;
+}
+
+.loginh2, .registerh2 {
+    color: #2f45ff;
+    font-size: 25px;
+}
+
+.loginp {
+    color: #10169f;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+.loginbtn, .regbtn, .registerbtn, .regbutton, form button, .post button {
+    padding: 10px;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #0a0b5c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+i {
+    font-size: 18px;
+}
+
+.registerbtn {
+     background-color: #0a0b5c;
+    border-radius: 8px; 
+    border: none; 
+    cursor: pointer; 
+    color: #fff; 
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+    color: #2f45ff;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.registerbtn a {
+    color: #85a8ff;
+}
+
+.incorrectmsg {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.msgerror {
+    text-align: center;
+    color: #ff2323;
+}
+
+.indexh2 {
+    text-align: center;
+    font-weight: 500;
+    color: #0a0b5c;
+    margin: 20px;
+}
+
+.inedxform {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    gap: 20px;
+}
+
+.inedxform input {
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    width: 300px;
+    background-color: #0a0b5c;
+    color: #85a8ff;
+}
+
+.inedxform input::placeholder {
+    color: #fff;
+}
+
+.regbutton {
+     padding: 10px; 
+     background-color: #0a0b5c;
+     color: #fff;
+     border-radius: 10px;
+     border: none; 
+     cursor: pointer;
+}
+
+.indexh3 {
+    text-align: center;
+    color: #0a0b5c;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+    gap: 15px;
+}
+
+
+.logoutbtn{
+    background-color: #ff2323;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    width: 20px;
+}
+
+a{
+    color: #ff2323;
+}
+
+h2 {
+    text-align: center;
+    font-size: 28px;
+    color: #0a0b5c;
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: center;
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: #0a0b5c;
+    margin: 20px;
+    text-align: center;
+}
+
+.post {
+    background-color: #b3ccff;
+    padding: 15px;
+    margin: 10px auto;
+    border-radius: 10px;
+    width: 90%;
+    max-width: 700px;
+}
+
+.post p {
+    margin-bottom: 10px;
+    color: #0a0b5c;
+}
+
+.post form {
+    display: inline;
+}
+
+textarea {
+    width: 90%;
+    max-width: 700px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    background-color: #dce6ff;
+    color: #0a0b5c;
+    resize: vertical;
+}
+
+textarea::placeholder {
+    color: #606ccc;
+}
