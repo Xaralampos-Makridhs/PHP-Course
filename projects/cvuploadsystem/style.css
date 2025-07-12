@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #d5e4ff;
+}
+
+h2{
+    text-align: center;
+    color: #0a0b5c;
+    margin-bottom: 20px;
+}
+
+.form{
+    background-color: #b3ccff;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+p{
+    color: #0a0b5c;
+    font-size: 17px;
+}
+
+.infos input{
+    width: 100%;
+    padding: 6px;
+    border-radius: 8px;
+    background-color: aliceblue;
+    border: none;
+    outline: none;
+    margin: 10px;
+}
+
+.cv input{
+    padding: 8px;
+    background-color: transparent;
+    border-radius: 8px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn button{
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #85a8ff;
+    border: none;
+    color: #0a0b5c;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    font-size: 17px;
+}
+
+.btn button:hover{
+    background-color: #0a0b5c;
+    color: #85a8ff;
+}
+
+.end{
+    margin-top: 20px;
+    background-color: #10169f;
+    border-radius: 8px;
+    padding: 7px;
+    border: none;
+
+}
+
+.end a{
+    color:#b3ccff;
+    text-decoration: none;
+}
+
+.cventry{
+    padding: 7px;
+    background-color: #e8f1ff;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.cventry .infos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+}
+
+strong{
+    color: #0a0b5c;
+}
+
