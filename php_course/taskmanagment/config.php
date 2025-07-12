@@ -3,7 +3,7 @@
 
     $server="localhost";
     $name="root";
-    $pass="xm180605";
+    $pass="";
     $database="tasks_php";
 
     $conn=new mysqli($server,$name,$pass,$database);
