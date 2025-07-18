@@ -11,7 +11,7 @@ This project includes:
 
 ##  Technologies 
 
-- PHP (Procedural)
+- PHP
 - MySQL
 - HTML
 
