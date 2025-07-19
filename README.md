@@ -34,8 +34,15 @@ Each folder in this repository represents a chapter in the course:
 - `14-sessions/`:Super Global variable Session in PHP.
 - `15-php&mysql/`:Connections between PHP and MySQL. **with project**
 - `16-filehandling/`:File Handling in PHP.
-- `crud/`:Create Read Update Delete Project.
 ---
+
+## Projects
+
+- `cvuploadsystem`
+- `forum`
+- `quiz_system`
+- `taskmanagment`
+
 
 ## How to Use This Repository
 
