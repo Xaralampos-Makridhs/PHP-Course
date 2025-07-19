@@ -42,7 +42,7 @@ Each folder in this repository represents a chapter in the course:
 - `forum`
 - `quiz_system`
 - `taskmanagment`
-
+---
 
 ## How to Use This Repository
 
