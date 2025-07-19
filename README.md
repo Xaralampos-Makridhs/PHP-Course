@@ -68,7 +68,6 @@ Recommended tools:
 
 Any modern code editor that supports PHP, such as:
 - [Visual Studio Code](https://code.visualstudio.com/)
-- PHPStorm
 
 ### 3. Browser
 
