@@ -16,7 +16,7 @@ $questions = $result->fetch_all(MYSQLI_ASSOC);
 
     <form action="submit.php" method="post">
         <?php foreach ($questions as $index => $q): ?>
-            <p>Ερώτηση <?php echo $index + 1; ?>: <strong><?php echo htmlspecialchars($q['question']); ?></strong></p>
+            <p>Question <?php echo $index + 1; ?>: <strong><?php echo htmlspecialchars($q['question']); ?></strong></p>
 
             <label><input type="radio" name="answers[<?php echo $q['id']; ?>]" value="a"> <?php echo htmlspecialchars($q['option_a']); ?></label><br>
             <label><input type="radio" name="answers[<?php echo $q['id']; ?>]" value="b"> <?php echo htmlspecialchars($q['option_b']); ?></label><br>
