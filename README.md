@@ -36,14 +36,6 @@ Each folder in this repository represents a chapter in the course:
 - `16-filehandling/`:File Handling in PHP.
 ---
 
-## Projects
-
-- `cvuploadsystem`
-- `forum`
-- `quiz_system`
-- `taskmanagment`
----
-
 ## How to Use This Repository
 
 1. Clone or download the repository to your local machine.
