@@ -1,6 +1,6 @@
 # Expense Tracker
 
-This is a simple Expense Tracker web application built using PHP. The project is designed to help users manage and monitor their daily expenses efficiently. It allows users to record transactions, categorize expenses, and view summary reports.
+This is a simple Expense Tracker web application built using PHP. The project is designed to help users manage and monitor their daily expenses efficiently. It allows users to record transactions, categorize expenses.
 
 ## Features
 
@@ -25,53 +25,5 @@ This is a simple Expense Tracker web application built using PHP. The project is
 - A web server (e.g., Apache, Nginx)
 - MySQL database (if using persistent storage)
 
-### Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Xaralampos-Makridhs/PHP-Course.git
-   ```
-2. **Navigate to the expense tracker directory:**
-   ```bash
-   cd PHP-Course/expense_tracker
-   ```
-3. **Set up your web server’s document root to point to this folder.**
 
-4. **(Optional) Configure database:**
-   - Update database credentials in the configuration file (e.g., `config.php`).
-   - Run the SQL schema file if provided to create necessary tables.
-
-### Usage
-
-- Open your browser and go to `http://localhost/expense_tracker` (or your configured host).
-- Start adding your expenses and view summaries.
-
-## Folder Structure
-
-```
-expense_tracker/
-├── index.php
-├── add_expense.php
-├── edit_expense.php
-├── delete_expense.php
-├── config.php
-├── assets/
-│   └── style.css
-└── README.md
-```
-
-## Screenshots
-
-*(Add screenshots of the UI here if available)*
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Author
-
-[Xaralampos Makridhs](https://github.com/Xaralampos-Makridhs)
