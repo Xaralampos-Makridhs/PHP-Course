@@ -1,7 +1,7 @@
 <?php
     $server='localhost';
     $name='root';
-    $password='xm180605';
+    $password=''; //Enter your own password
     $database='expenses';
 
     $conn=new mysqli($server,$name,$password,$database);
@@ -22,4 +22,5 @@
     if($conn->query($table)=== FALSE){
         die('Table Creation Faield'. $conn->error);
     }
+
 ?>
