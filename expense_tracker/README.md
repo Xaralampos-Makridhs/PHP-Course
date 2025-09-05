@@ -22,7 +22,7 @@ This is a simple Expense Tracker web application built using PHP. The project is
 ### Prerequisites
 
 - PHP (>=7.0)
-- A web server (e.g., Apache, Nginx)
+- A web server (e.g., Apache, Laragon)
 - MySQL database (if using persistent storage)
 
 
